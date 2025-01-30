@@ -1,0 +1,1 @@
+// WAP that takes a single charc as input and detremine it is a vowel or consonant or special using switch case //
