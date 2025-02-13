@@ -6,11 +6,11 @@ int main() {
 
     while (i >= 1) 
     {
-        int j = 1;
-        while (j <= i) 
+        int j = i;
+        while (j >= 1) 
         {
             printf("%d ", j);
-            j++;
+            j--;
         }
         printf("\n");
         i--;
